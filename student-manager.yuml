@@ -1,0 +1,1 @@
+[Student]-(View University Details), [Student]-(View Grades), (View University Details)>(Log In), (View Grades)>(Log In), (Log In)<(Incorrect Credentials), [Teacher]-(View Students), [Teacher]-(Add Student), [Teacher]-(Add Grades), (View Students)>(Log In), (Add Student)>(Log In), (Add Grades)>(Log In), [Administrator]-(Create account), [Administrator]-(Add Subject)
